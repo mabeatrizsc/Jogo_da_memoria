@@ -4,7 +4,7 @@ Este é um jogo da memória simples desenvolvido com HTML, CSS e JavaScript dura
 
 ## Captura de Tela
 
-![Captura de tela do Jogo da Memória](imagens/JOGOdaMemoria.png)
+![Captura de tela do Jogo da Memória](images/JOGOdaMemoria.png)
 
 ## Funcionalidades
 
