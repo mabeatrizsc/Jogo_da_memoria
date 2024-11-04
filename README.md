@@ -2,6 +2,10 @@
 
 Este é um jogo da memória simples desenvolvido com HTML, CSS e JavaScript durante aula da plataforma DIO. O objetivo é encontrar pares de emojis iguais. O jogo é jogado clicando nas cartas para virá-las, e o jogador deve tentar lembrar as posições das cartas para fazer as combinações corretas.
 
+## Captura de Tela
+
+![Captura de tela do Jogo da Memória](imagens/JOGOdaMemoria.png)
+
 ## Funcionalidades
 
 - **Embaralhamento de cartas**: As cartas são embaralhadas aleatoriamente a cada jogo.
